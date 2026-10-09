@@ -1,2 +1,2 @@
 # SmartWater
-Steam-набір автополив SmartWater (конструктор без корпусу)
+Steam-набір автополив SmartWater
